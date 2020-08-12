@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/rotate_right_90"
+        android:title="Xoay phải 90 độ"/>
+    <item android:id="@+id/rotate_left_90"
+        android:title="Xoay trái 90 độ"/>
+    <item android:id="@+id/rotate_180"
+        android:title="Xoay 180 độ"/>
+</menu>
